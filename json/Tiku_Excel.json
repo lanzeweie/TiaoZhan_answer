@@ -1,0 +1,1977 @@
+{
+    "name": "桥帮主读书日Excel题库",
+    "date": "2022/5/6",
+    "jieshao": "光有题无答案, title 为题目 date 为题目选项 空格为分格 answer为答案",
+    "Tiku": [
+        {
+            "title": "对表格进行排序时必须包含标题行",
+            "date": "错误 正确",
+            "answer": " "
+        },
+        {
+            "title": "合并计算时，工作簿的多个工作表在相同单元格或单元格区域的数据性质必须相同",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "返回系统当前日期的函数是",
+            "date": "MIN() TODAY() MAX() MATCH()",
+            "answer": "TODAY()"
+        },
+        {
+            "title": "格式按钮位于（）菜单",
+            "date": "开始 插入 文件 数据",
+            "answer": "开始"
+        },
+        {
+            "title": "将单元格变为活动单元格的操作是",
+            "date": "没必要，因为每一个单元格都是活动的 在当前单元格内键入该目标单元格地址 用鼠标单击该单元格 将鼠标指针指向该单元格",
+            "answer": "用鼠标单击该单元格"
+        },
+        {
+            "title": "执行降序排列，在序列中空白单元格被",
+            "date": "放置在排序数据清单的最前 保持原始次序 放置在排序数据的最后 不被排序",
+            "answer": "放置在排序数据的最后"
+        },
+        {
+            "title": "下列哪一项不是单元格插入对话框中的选项",
+            "date": "活动单元格左移 整行 整列 活动单元格右移",
+            "answer": "活动单元格左移"
+        },
+        {
+            "title": "Excel保存文件的快捷键是",
+            "date": "Ctrl+A Ctrl+S Ctrl+V Ctrl+C",
+            "answer": "Ctrl+S"
+        },
+        {
+            "title": "计算指数回归拟合曲线方程参数的函数是",
+            "date": "LOOKUP() TREND() MATCH() LOGEST()",
+            "answer": "LOGEST()"
+        },
+        {
+            "title": "编辑自定义列表的方法是",
+            "date": "文件>选项>常规>编辑自定义列表 文件>共享>常规>编辑自定义列表 文件>共享>高级>编辑自定义列表 文件>选项>高级>编辑自定义列表",
+            "answer": "文件>选项>高级>编辑自定义列表"
+        },
+        {
+            "title": "Excel可以对汉语拼音进行排序",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "将选定区域向下扩展一屏的快捷键是",
+            "date": "Shift+PgDn Ctrl+PgDn Shift+PgUp Ctrl+PgUp",
+            "answer": "Shift+PgDn"
+        },
+        {
+            "title": "弹出查找对话框的快捷键是",
+            "date": "Ctrl+F8 Shift+F8 Ctrl+F5 Shift+F5",
+            "answer": "Shift+F5"
+        },
+        {
+            "title": "Excel中计算全距的方法是",
+            "date": "MAX()-MIN() MAX()-AVERAGE() AVERAGE()-MIN() MIN()-MAX()",
+            "answer": "MAX()-MIN()"
+        },
+        {
+            "title": "合并单元格位于（）菜单",
+            "date": "数据 公式 开始 插入",
+            "answer": "开始"
+        },
+        {
+            "title": "返回一个期间内资产的直线折旧的函数是",
+            "date": "MATCH() AVERAGE() SLN() SKEW()",
+            "answer": "SLN()"
+        },
+        {
+            "title": "应用或取消字体倾斜格式的快捷键是",
+            "date": "Ctrl+I Ctrl+B Ctrl+U Ctrl+A",
+            "answer": "Ctrl+I"
+        },
+        {
+            "title": "公式=LEFT(EXCEL,3)将产生错误值（）",
+            "date": "#DIV/O! #VALUE! #####！ #NAME?",
+            "answer": "#NAME?"
+        },
+        {
+            "title": "关闭Excel窗口可以选择“文件”菜单中的（）命令",
+            "date": "新建 打印 保存 关闭",
+            "answer": "关闭"
+        },
+        {
+            "title": "计算非空单元格数量的函数是",
+            "date": "COUNT() MAX() SUM() COUNTA()",
+            "answer": "COUNTA()"
+        },
+        {
+            "title": "返回一个期间内的资产的直线折旧函数是",
+            "date": "SLN() LOOKUP() MAX() MATCH()",
+            "answer": "SLN()"
+        },
+        {
+            "title": "下列操作中,不能退出Excel的操作是",
+            "date": "执行\"文件→退出\"菜单命令 执行\"文件→关闭\"菜单命令 单击标题栏左端Excel窗口的控制菜单按钮,选择\"关闭\"命令 按快捷键[Alt]+[F4]",
+            "answer": "执行\"文件→关闭\"菜单命令"
+        },
+        {
+            "title": "使用正态分布返回总体平均值的置信区间的函数是",
+            "date": "SKEW() MATCH() COUNT() CONFIDENCE()",
+            "answer": "CONFIDENCE()"
+        },
+        {
+            "title": "Excel中向下移动一屏的快捷键是",
+            "date": "PgDn Home PgUp End",
+            "answer": "PgDn"
+        },
+        {
+            "title": "分类汇总按钮位于（）菜单中",
+            "date": "开始 视图 数据 插入",
+            "answer": "数据"
+        },
+        {
+            "title": "在单元格输入下列哪个值，该单元格显示0.3",
+            "date": "42906 “6/20” 6/20 0.3",
+            "answer": "0.3"
+        },
+        {
+            "title": "函数=MIN(6，10，20)的值为",
+            "date": "10 0 20 6",
+            "answer": "6"
+        },
+        {
+            "title": "当前工作表的第7行、第4列，其单元格地址为",
+            "date": "G4 74 D7 E7",
+            "answer": "D7"
+        },
+        {
+            "title": "=MAX(6,MIN(7,8),4,5)的结果是",
+            "date": "5 6 7 4",
+            "answer": "7"
+        },
+        {
+            "title": "用图标集标识数据特征的方法是",
+            "date": "开始>条件格式>图标集 开始>套用表格格式>图标集 插入>条件格式>图标集 插入>套用表格格式>图标集",
+            "answer": "开始>条件格式>图标集"
+        },
+        {
+            "title": "数据分析工具安装完成后位于（）菜单中",
+            "date": "插入 数据 公式 开始",
+            "answer": "数据"
+        },
+        {
+            "title": "回到工作表的右下角单元的快捷键是",
+            "date": "Shift+End Shift+Home Ctrl+End Ctrl+Home",
+            "answer": "Ctrl+End"
+        },
+        {
+            "title": "求一组数据频率分布的函数是",
+            "date": "MIN() MATCH() MAX() FREQUENCY()",
+            "answer": "FREQUENCY()"
+        },
+        {
+            "title": "Excel工作表中，行和列（）",
+            "date": "只能隐藏列不能隐藏行 只能隐藏行不能隐藏列 都不可以被隐藏 都可以被隐藏",
+            "answer": "都可以被隐藏"
+        },
+        {
+            "title": "在A1单元格输入2,在A2单元格输入5,然后选中A1:A2区域,拖动填充柄到单元格A3:A8,则得到的数字序列是",
+            "date": "数字序列 等差序列 小数序列 等比序列",
+            "answer": "等差序列"
+        },
+        {
+            "title": "计算单元格区域中所有数值和的函数是",
+            "date": "MATCH() COUNT() VLOOKUP() SUM()",
+            "answer": "SUM()"
+        },
+        {
+            "title": "完成单元格输入并向上选取上一个单元格的快捷键是",
+            "date": "Shift+Enter Shift+Tab Tab Enter",
+            "answer": "Shift+Enter"
+        },
+        {
+            "title": "若在数值单元格中出现一连串的“###”符号,希望正常显示则需要",
+            "date": "调整单元格的宽度 删除这些符号 重新输入数据调整单元格的宽度删除这些符号删除该单元格 删除该单元格",
+            "answer": "调整单元格的宽度"
+        },
+        {
+            "title": "在常规输入中，自动左对齐的是",
+            "date": "日期 文字 时间 数值",
+            "answer": "文字"
+        },
+        {
+            "title": "移动到工作簿中下一张工作表的快捷键是",
+            "date": "Shift+PageDown Ctrl+PageDown Shift+PageUp Ctrl+PageUp",
+            "answer": "Ctrl+PageDown"
+        },
+        {
+            "title": "计算线性回归拟合线的一组纵坐标值的函数是",
+            "date": "MAX() LOOKUP() MATCH() TREND()",
+            "answer": "TREND()"
+        },
+        {
+            "title": "CORREL(array1,array2),如果array1和array2的数据点的数量不同，则函数的返回值是",
+            "date": "0 #N/A #REF! #DIV/0!",
+            "answer": "#N/A"
+        },
+        {
+            "title": "全部重排按钮位于（）菜单",
+            "date": "开始 插入 视图 数据",
+            "answer": "视图"
+        },
+        {
+            "title": "手动刷新数据的方法是",
+            "date": "选中导入的外部数据区域中的任意单元格-【开始】-【显示查询】 选中导入的外部数据区域中的任意单元格-【数据】-【全部刷新】 选中导入的外部数据区域中的任意单元格-【文件】-【全部刷新】 选中导入的外部数据区域中的任意单元格-【数据】-【显示查询】",
+            "answer": "选中导入的外部数据区域中的任意单元格-【数据】-【全部刷新】"
+        },
+        {
+            "title": "Excel中对工作表不能进行的操作是",
+            "date": "移动和复制工作表 修改工作表名称 插入和删除工作表 恢复被删除的工作表",
+            "answer": "恢复被删除的工作表"
+        },
+        {
+            "title": "应用不带小数位的“百分比”格式的快捷键是",
+            "date": "Ctrl+Shift+% Ctrl+Shift+& Ctrl+Alt+% Ctrl+Alt+&",
+            "answer": "Ctrl+Shift+%"
+        },
+        {
+            "title": "在Excel菜单中，如果命令选项后面有三角符号，表示选择这个命令时将有（）出现",
+            "date": "什么也没有 错误  ",
+            "answer": "子菜单"
+        },
+        {
+            "title": "下列哪一项不是Excel提供的t检验法",
+            "date": "多样本t检验 平均值的成对二样本的t检验假设 双样本异方差假设的t检验 双样本等方差假设的t检验",
+            "answer": "多样本t检验"
+        },
+        {
+            "title": "函数SUM（A1：A3）的含义为",
+            "date": "该函数有两个参数A1，A3 该函数实现A1、A2、A3单元格求和 该函数实现整行信息求和 相当于求A1+A3",
+            "answer": "该函数实现A1、A2、A3单元格求和"
+        },
+        {
+            "title": "计算指数回归拟合曲线的一组纵坐标值的函数是",
+            "date": "LOOKUP() TREND() MATCH() GROWTH()",
+            "answer": "GROWTH()"
+        },
+        {
+            "title": "自定义排序的排序依据不包括",
+            "date": "字体大小 数值 字体颜色 单元格颜色",
+            "answer": "字体大小"
+        },
+        {
+            "title": "插入批注的快捷键是",
+            "date": "Shift+F4 Shift+F2 Alt+F4 Alt+F2",
+            "answer": "Shift+F2"
+        },
+        {
+            "title": "下列操作中，可以删除当前工作表的是",
+            "date": "右击任意单元格，从弹出菜单中选“删除” 单击当前工作表中的任意单元格，再单击工具栏中“剪切”按钮 右击当前工作表标签条，再从弹出菜单中选“删除” 选中任意单元格，再从“编辑”菜单中选“删除”",
+            "answer": "右击当前工作表标签条，再从弹出菜单中选“删除”"
+        },
+        {
+            "title": "设置单元格格式对话框中不包含的选项卡是",
+            "date": "数字 填充 文本 字体",
+            "answer": "文本"
+        },
+        {
+            "title": "显示公式按钮位于（）菜单",
+            "date": "数据 插入 公式 开始",
+            "answer": "公式"
+        },
+        {
+            "title": "对选定单元格应用外边框的快捷键是",
+            "date": "Ctrl+Shift+& Ctrl+Alt+& Ctrl+Shift+$ Ctrl+Alt+$",
+            "answer": "Ctrl+Shift+&"
+        },
+        {
+            "title": "假设B1为文字\"100\",B2为数字\"3\",则COUNT(B1:B2）等于",
+            "date": "103 3 100 1",
+            "answer": "1"
+        },
+        {
+            "title": "通配符（）可以代替任意的多个字符",
+            "date": "？ & * %",
+            "answer": "*"
+        },
+        {
+            "title": "复制公式时地址不会跟着发生变化的引用方式是",
+            "date": "绝对引用 直接引用 相对引用 混合引用",
+            "answer": "绝对引用"
+        },
+        {
+            "title": "Excel工作表是一个很大的表格，其左上角的单元是",
+            "date": "11 A1 1A AA",
+            "answer": "A1"
+        },
+        {
+            "title": "计算两组数值的相关系数的函数是",
+            "date": "MATCH() CONVERT() CORREL() ABS()",
+            "answer": "CORREL()"
+        },
+        {
+            "title": "下列哪一项可以完成汇总单独区域中的数据，在单个输出区域中合并计算结果",
+            "date": "合并计算 分列 数据验证 快速填充",
+            "answer": "合并计算"
+        },
+        {
+            "title": "应用含年、月、日的“日期”格式的组合键是",
+            "date": "Ctrl+Shift+# Ctrl+Shift+$ Ctrl+Alt+$ Ctrl+Alt+#",
+            "answer": "Ctrl+Alt+$"
+        },
+        {
+            "title": "选择连续单元格，需要按住（）键同时选择所需的单元格",
+            "date": "Esc Ctrl Shift Alt",
+            "answer": "Shift"
+        },
+        {
+            "title": "下列哪一项可以将单列文本拆分为多列",
+            "date": "排序 快速填充 合并计算 分列",
+            "answer": "分列"
+        },
+        {
+            "title": "插入函数的快捷键是",
+            "date": "Ctrl+F2 Shift+F2 Shift+F3 Ctrl+F3",
+            "answer": "Shift+F3"
+        },
+        {
+            "title": "应用或取消下划线的快捷键是",
+            "date": "Ctrl+A Ctrl+C Ctrl+U Ctrl+V",
+            "answer": "Ctrl+U"
+        },
+        {
+            "title": "对于工作表中的文本型数据，（）",
+            "date": "只可按“拼音”排序 只可按“笔划”排序 既可按“拼音”，又可按“笔划”排序 不可以排序",
+            "answer": "既可按“拼音”，又可按“笔划”排序"
+        },
+        {
+            "title": "数据透视图按钮位于（）菜单中",
+            "date": "数据 公式 插入 开始",
+            "answer": "插入"
+        },
+        {
+            "title": "插入空白单元格的快捷键是",
+            "date": "Ctrl+Alt+加号 Ctrl+Shift+加号 Ctrl+Tab+加号 Ctrl+Esc+加号",
+            "answer": "Ctrl+Shift+加号"
+        },
+        {
+            "title": "PMT(Rate, Nper, Pv, Fv, Type)，参数Pv是指",
+            "date": "支付金额 支付次数 现在的价值 未来的价值",
+            "answer": "现在的价值"
+        },
+        {
+            "title": "应用常规数字格式的组合键是",
+            "date": "Ctrl+Shift+~ Ctrl+Shift+@ Ctrl+Alt+~ Ctrl+Alt+@",
+            "answer": "Ctrl+Shift+~"
+        },
+        {
+            "title": "在Excel中，插入的行默认是在选中行的",
+            "date": "右侧 左侧 上方 下方",
+            "answer": "上方"
+        },
+        {
+            "title": "计算标准偏差的函数是",
+            "date": "MEDIAN() MAX() STDEV.P() 常量数组",
+            "answer": "STDEV.P()"
+        },
+        {
+            "title": "公式=SUMPRODUCT(A1：A9*B1：B9)中，A1：A9是（）数组",
+            "date": "内存数组 逻辑值数组 区域数组 常量数组",
+            "answer": "区域数组"
+        },
+        {
+            "title": "应用或取消删除线的快捷键是",
+            "date": "Ctrl+5 Ctrl+4 Shift+4 Shift+5",
+            "answer": "Ctrl+5"
+        },
+        {
+            "title": "单元格中输入日期的快捷键是",
+            "date": "Ctrl+: Shift+: Ctrl+; Shift+;",
+            "answer": "Ctrl+;"
+        },
+        {
+            "title": "在单元格中输入：=6+16+MIN（12，8），将显示",
+            "date": "30 22 42 34",
+            "answer": "30"
+        },
+        {
+            "title": "移动到工作表开头的快捷键是",
+            "date": "Ctrl+Home Shift+Home Shift+End Ctrl+End",
+            "answer": "Ctrl+Home"
+        },
+        {
+            "title": "设置货币输入方式，在设置单元格格式对话框的分类中应该选择",
+            "date": "数值 货币 时间 日期",
+            "answer": "货币"
+        },
+        {
+            "title": "在表格里，通过（）符号来实现单元格的绝对引用",
+            "date": "$ & * #",
+            "answer": "$"
+        },
+        {
+            "title": "计算方差的函数是",
+            "date": "MAX() VAR.P() MEDIAN() MATCH()",
+            "answer": "VAR.P()"
+        },
+        {
+            "title": "返回表格或区域中值或值的引用的函数是",
+            "date": "MATCH() ABS() RAND() INDEX()",
+            "answer": "INDEX()"
+        },
+        {
+            "title": "分列按钮位于（）菜单",
+            "date": "数据 审阅 开始 插入",
+            "answer": "数据"
+        },
+        {
+            "title": "在单元格输入=IF(3>4,\"NO\",\"YES\")，显示的结果是",
+            "date": "NO 3 4 YES",
+            "answer": "YES"
+        },
+        {
+            "title": "已知A1单元格中的公式为＝SUM（B1:F6）,将B列删除之后,A1单元格中的公式将调整为",
+            "date": "=SUM（C1:F6） =SUM（B1:F6） =SUM（B1:E6） =SUM（＃REF！）",
+            "answer": "=SUM（B1:E6）"
+        },
+        {
+            "title": "将文本字符或字符串进行连接和合并的运算符是",
+            "date": "% ^ & <=",
+            "answer": "&"
+        },
+        {
+            "title": "输入的公式中包含明显的除数零，将会产生错误值（）",
+            "date": "#VALUE! #DIV/O! #####！ #NAME?",
+            "answer": "#DIV/O!"
+        },
+        {
+            "title": "求数值最大值的函数是",
+            "date": "MAX() MATCH() AVERAGE() SUM()",
+            "answer": "MAX()"
+        },
+        {
+            "title": "查找的快捷键是",
+            "date": "Ctrl+V Ctrl+A Ctrl+F Ctrl+C",
+            "answer": "Ctrl+F"
+        },
+        {
+            "title": "计算基于给定样本的方差函数是",
+            "date": "STDEV() MIN() VAR() COUNT()",
+            "answer": "VAR()"
+        },
+        {
+            "title": "函数的参数必须用（）括起来",
+            "date": "双引号 中括号 圆括号 单引号",
+            "answer": "圆括号"
+        },
+        {
+            "title": "下列关于Excel的“排序”功能，说法错误的有",
+            "date": "可以按列排序 最多允许有三个排序关键字 可以按行排序 可以自定义序列排序",
+            "answer": "最多允许有三个排序关键字"
+        },
+        {
+            "title": "下列哪一个函数可以实现搜索表区域首列满足条件的元素，确定待检索单元格在区域中的行序号，再进一步返回选定单元格的值",
+            "date": "ROW() VLOOKUP() MATCH() RTD()",
+            "answer": "VLOOKUP()"
+        },
+        {
+            "title": "下列哪一项不是Excel的数组形式",
+            "date": "逻辑值数组 常量数组 区域数组 内存数组",
+            "answer": "逻辑值数组"
+        },
+        {
+            "title": "在一个单元格中输入=10=500 ，第一个“=”是公式标志，第二个“=”是",
+            "date": "数学运算符 文本运算符 比较运算符 引用运算符",
+            "answer": "比较运算符"
+        },
+        {
+            "title": "打开高级筛选对话框的方法是",
+            "date": "数据>排序和筛选>高级 开始>排序和筛选>高级 数据>排序和筛选>筛选 开始>排序和筛选>筛选",
+            "answer": "数据>排序和筛选>高级"
+        },
+        {
+            "title": "本来输入Excel单元格的是数，结果却变成了日期，那是因为",
+            "date": "不可预知的原因 该单元格的数据格式被设定为日期格式 该单元格太宽了 Excel程序出错",
+            "answer": "该单元格的数据格式被设定为日期格式"
+        },
+        {
+            "title": "Excel中，下列（）是正确的区域表示法",
+            "date": "A1:D4 A1、、D4 A1＞D4 A1#B4",
+            "answer": "A1:D4"
+        },
+        {
+            "title": "（）可以在搜索目标中代替任意单个字符",
+            "date": "$ ! ? *",
+            "answer": "?"
+        },
+        {
+            "title": "在单元格中输入 =6+16+MIN(16,6)，将显示",
+            "date": "16 38 6 28",
+            "answer": "28"
+        },
+        {
+            "title": "从单行或单列中查找一个值的函数是",
+            "date": "MATCH() LOOKUP() HLOOKUP() VLOOKUP()",
+            "answer": "LOOKUP()"
+        },
+        {
+            "title": "Excel中剪切的快捷键是",
+            "date": "Ctrl+V Ctrl+A Ctrl+X Ctrl+C",
+            "answer": "Ctrl+X"
+        },
+        {
+            "title": "在Excel中做筛选数据操作后，表格中未显示的数据",
+            "date": "已被删除，但可以恢复 已被放置到另一个表格中 已被删除，不能在恢复 被隐藏起来，但未被删除",
+            "answer": "被隐藏起来，但未被删除"
+        },
+        {
+            "title": "下列哪一项可以从Web获取数据",
+            "date": "自文本 自网站 连接 自Access",
+            "answer": "自网站"
+        },
+        {
+            "title": "在Excel中，错误值总是以（ ）开头",
+            "date": "& 正确  ",
+            "answer": "#"
+        },
+        {
+            "title": "Excel中选取整列的快捷键是",
+            "date": "Shift+M Shift+空格键 Ctrl+空格键 Ctrl+M",
+            "answer": "Ctrl+空格键"
+        },
+        {
+            "title": "=CEILING(2.5,1)的计算结果是",
+            "date": "3 4 1 2.5",
+            "answer": "3"
+        },
+        {
+            "title": "计算负二项式分布的函数是",
+            "date": "NEGBINOMDIST() BINOM.DIST() POISSON() CRITBINOM()",
+            "answer": "NEGBINOMDIST()"
+        },
+        {
+            "title": "返回标准正态累积分布函数函数值的函数是",
+            "date": "NORMSDIST() STDEV() SLN() MATCH()",
+            "answer": "34"
+        },
+        {
+            "title": "下列哪一项是乘方运算符",
+            "date": "— + ^ %",
+            "answer": "^"
+        },
+        {
+            "title": "对于D5单元格，其绝对引用单元格表示方法为",
+            "date": "$D5 D5 $D$5 D$5",
+            "answer": "$D$5"
+        },
+        {
+            "title": "当在函数或公式中没有可用数值时，将产生错误值（）",
+            "date": "#VALUE! #####！ #N/A #NAME?",
+            "answer": "#N/A"
+        },
+        {
+            "title": "删除选定单元格的快捷键是",
+            "date": "Shift+& Ctrl+& Ctrl+- Shift+-",
+            "answer": "Ctrl+-"
+        },
+        {
+            "title": "Excel中可重复双因素方差分析得到的结果不包括",
+            "date": "求和 最大值 平均 观测数",
+            "answer": "最大值"
+        },
+        {
+            "title": "在工作表中，第28列的列标表示为",
+            "date": "AD AC AA AB",
+            "answer": "AB"
+        },
+        {
+            "title": "在Excel中，当删除工作表中的数据系列时，则图表中相应的数据系列",
+            "date": "重新生成新的图表 仍然保留 自动消失 显示出错",
+            "answer": "自动消失"
+        },
+        {
+            "title": "Excel2016添加记录单功能后，其位于（）菜单中",
+            "date": "插入 开始 公式 数据",
+            "answer": "数据"
+        },
+        {
+            "title": "在excel中编辑栏中的符号“对号”表示",
+            "date": "编辑公式 确认输入 取消输入 编辑文字",
+            "answer": "确认输入"
+        },
+        {
+            "title": "选定整个工作表的方法是",
+            "date": "单击左上角的行列坐标的交叉点 右键单击任一单元格，从弹出的快捷菜单中选择“选定工作表” 双击状态栏 按下Alt键的同时双击第一个单元格",
+            "answer": "单击左上角的行列坐标的交叉点"
+        },
+        {
+            "title": "求中位数的函数是",
+            "date": "MATCH() VLOOKUP() AVERAGE() MEDIAN()",
+            "answer": "MEDIAN()"
+        },
+        {
+            "title": "Excel中如果一个单元格中的信息是以“=”开头，则说明该单元格中的信息是",
+            "date": "无效数据 常数 提示信息 公式",
+            "answer": "公式"
+        },
+        {
+            "title": "在任何时候，工作表中（）单元格是激活的",
+            "date": "至少有一个 可以有一个以上 有且仅有一个 有两个",
+            "answer": "有且仅有一个"
+        },
+        {
+            "title": "返回投资现值的函数是",
+            "date": "MATCH() MIN() PMT() PV()",
+            "answer": "PV()"
+        },
+        {
+            "title": "在A2单元格中输入=56>=57则显示结果为",
+            "date": "TRUE 57 56 FALSE",
+            "answer": "FALSE"
+        },
+        {
+            "title": "（）符号可以取消通配符属性",
+            "date": "~ ! @ *",
+            "answer": "~"
+        },
+        {
+            "title": "定义名称的组合键是",
+            "date": "Ctrl+F3 Ctrl+F2 Shift+F2 Shift+F3",
+            "answer": "Ctrl+F3"
+        },
+        {
+            "title": "电子表格是一种（）维的表格",
+            "date": "二 四 三 一",
+            "answer": "二"
+        },
+        {
+            "title": "在公式中引用单元格或单元格区域地址的方式不包括",
+            "date": "直接引用 绝对引用 混合引用 相对引用",
+            "answer": "直接引用"
+        },
+        {
+            "title": "填充按钮位于（）菜单",
+            "date": "开始 文件 插入 数据",
+            "answer": "开始"
+        },
+        {
+            "title": "在 Excel 工作表中，单元格区域 D2:E4 所包含的单元格个数是（）",
+            "date": "7 8 6 5",
+            "answer": "6"
+        },
+        {
+            "title": "套用表格格式按钮位于（）菜单",
+            "date": "插入 文件 数据 开始",
+            "answer": "开始"
+        },
+        {
+            "title": "在Excel中，如果公式使用了多层括号，则计算的顺序为",
+            "date": "可以先内层，也可以先外层 只能有一层括号 先内层，后外层 先外层，后内层",
+            "answer": "先内层，后外层"
+        },
+        {
+            "title": "下列不属于运算符的是",
+            "date": "^ # & *",
+            "answer": "#"
+        },
+        {
+            "title": "下列函数的返回值为8的是",
+            "date": "MIN(FALSE,8,-9) SUM(“4”,3,TRUE) MAX(9,8,TRUE) AVERAGE(8,0,18,6)",
+            "answer": "AVERAGE(8,0,18,6)"
+        },
+        {
+            "title": "使用正态分布返回总体平均值的置信区间的函数是",
+            "date": "COUNT() CONFIDENCE() MATCH() SKEW()",
+            "answer": "YES"
+        },
+        {
+            "title": "SLN(cost, salvage, life)的哪一个参数是可选项",
+            "date": "life 最多允许有三个排序关键字 可以自定义序列排序 可以按列排序",
+            "answer": "三个参数都是必需项"
+        },
+        {
+            "title": "单因素方差分析对话框α(A)的默认值是",
+            "date": "0.01 0.03 0.1 0.05",
+            "answer": "0.05"
+        },
+        {
+            "title": "（）就是数据进行筛选时，几个条件要同时满足",
+            "date": "与条件筛选 或条件筛选 异或条件筛选 同或条件筛选",
+            "answer": "与条件筛选"
+        },
+        {
+            "title": "要编辑单元格内容时，在该单元格中（ ）鼠标，光标插入点将位于单元格内",
+            "date": "双击 单击 右击 以上都不对",
+            "answer": "双击"
+        },
+        {
+            "title": "条件格式中的（）功能可以通过不同颜色的渐变过度来实现数据可视化",
+            "date": "色阶 数据条 图标集 颜色轮",
+            "answer": "色阶"
+        },
+        {
+            "title": "在Excel公式中（）所包含的内容表示文本",
+            "date": "20 6 0 10",
+            "answer": "\"\""
+        },
+        {
+            "title": "在同一个工作簿中区分不同工作表的单元格,要在地址前面增加",
+            "date": "单元格地址 工作簿名称 工作表名称 公式",
+            "answer": "工作表名称"
+        },
+        {
+            "title": "插入函数位于（）菜单",
+            "date": "公式 数据 插入 开始",
+            "answer": "公式"
+        },
+        {
+            "title": "下列哪一项不是数据验证的输入法模式",
+            "date": "关闭 打开 随意 混合",
+            "answer": "混合"
+        },
+        {
+            "title": "在Excel中，一个公式允许使用（）圆括号",
+            "date": "三层 两层 一层 多层",
+            "answer": "多层"
+        },
+        {
+            "title": "在Excel数据清单中，按某一字段内容进行归类，并对每一类作出统计的操作是",
+            "date": "分类汇总 分类排序 筛选 记录单处理",
+            "answer": "分类汇总"
+        },
+        {
+            "title": "下列（）不是表格公式中自带的函数",
+            "date": "SUM() AA() AVERAGE() COUNTIF()",
+            "answer": "AA()"
+        },
+        {
+            "title": "Excel回归分析时，默认的输出选项是",
+            "date": "新工作簿 新工作表组 单元格 输出区域",
+            "answer": "新工作表组"
+        },
+        {
+            "title": "隐藏选定列的快捷键是",
+            "date": "Ctrl+1 Shift+1 Shift+0 Ctrl+0",
+            "answer": "Ctrl+0"
+        },
+        {
+            "title": "通过一条线性回归拟合线返回一个预测值的函数是",
+            "date": "FORECAST() MIN() MATCH() INTERCEPT()",
+            "answer": "FORECAST()"
+        },
+        {
+            "title": "计算峰值的函数是",
+            "date": "SKEW() MAX() MATCH() KURT()",
+            "answer": "KURT()"
+        },
+        {
+            "title": "计算经过给定数据点的线性回归拟合线方程斜率的函数是",
+            "date": "SKEW() MATCH() SLOPE() SQRT()",
+            "answer": "SLOPE()"
+        },
+        {
+            "title": "计算算数平均值的函数是",
+            "date": "VLOOKUP() MATCH() SUM() AVERAGE()",
+            "answer": "AVERAGE()"
+        },
+        {
+            "title": "窗口的排列方式不包括",
+            "date": "水平并排 分格 垂直并排 平铺",
+            "answer": "分格"
+        },
+        {
+            "title": "返回标准正态累积分布函数函数值的函数是",
+            "date": "NORMSDIST() SLN() MATCH() STDEV()",
+            "answer": "NORMSDIST()"
+        },
+        {
+            "title": "数据透视表位于（）菜单中",
+            "date": "数据 开始 文件 插入",
+            "answer": "插入"
+        },
+        {
+            "title": "数据验证中系统默认输入法模式为",
+            "date": "混合 打开 随意 关闭",
+            "answer": "随意"
+        },
+        {
+            "title": "进行自动分类汇总前，必须对数据清单进行",
+            "date": "排序 筛选 有效计算 建立数据库",
+            "answer": "排序"
+        },
+        {
+            "title": "粘贴的快捷键是",
+            "date": "Ctrl+V Ctrl+A Ctrl+C Ctrl+X",
+            "answer": "Ctrl+V"
+        },
+        {
+            "title": "进行分类汇总之前，必须对数据清单进行（）",
+            "date": "有效计算 建立数据库 筛选 排序",
+            "answer": "排序"
+        },
+        {
+            "title": "在Excel中 ，用以下哪项表示比较条件式逻辑“假”的结果",
+            "date": "1 ERR TRUE FALSE",
+            "answer": "FALSE"
+        },
+        {
+            "title": "以下哪个是绝对引用",
+            "date": "以上都不对 *A5 $D5 $D$B",
+            "answer": "以上都不对"
+        },
+        {
+            "title": "冻结窗格下拉菜单中不包括",
+            "date": "冻结拆分窗格 冻结首列 冻结工作表 冻结首行",
+            "answer": "冻结工作表"
+        },
+        {
+            "title": "推荐的图表按钮位于（）菜单",
+            "date": "数据 插入 开始 公式",
+            "answer": "插入"
+        },
+        {
+            "title": "查找和选择位于（）菜单",
+            "date": "数据 视图 开始 插入",
+            "answer": "开始"
+        },
+        {
+            "title": "SUM(number1,number2, ...)函数中，求和的参数最多可以有（）个",
+            "date": "20 5 10 30",
+            "answer": "20"
+        },
+        {
+            "title": "在Excel操作中，将单元格指针移到AB220单元格的最简单的方法是",
+            "date": "按Ctrl+AB220键 先用Ctrl+→键移到AB列，然后用Ctrl+↓键移到220行 拖动滚动条 在名称框输入AB220后按回车键",
+            "answer": "在名称框输入AB220后按回车键"
+        },
+        {
+            "title": "查找包含666的电话号码的模糊查找用法是",
+            "date": "*666 *666* 666？ 666*",
+            "answer": "*666*"
+        },
+        {
+            "title": "计算线性回归拟合线方程截距的函数是",
+            "date": "INTERCEPT() SLOPE() MATCH() SKEW()",
+            "answer": "INTERCEPT()"
+        },
+        {
+            "title": "在单元格输入负数时,可使用的表示负数的两种方法是",
+            "date": "反斜杠(＼)或连接符（–） 斜杠（/）或连接符(–) 斜杠(/)或反斜杠(＼) 在负数前加一个减号或用圆括号",
+            "answer": "在负数前加一个减号或用圆括号"
+        },
+        {
+            "title": "已知A1单元格中的公式为＝SUM（B1:F6）,将B列删除之后,A1单元格中的公式将调整为",
+            "date": "=SUM（B1:F6） =SUM（C1:F6） =SUM（B1:E6） =SUM（＃REF！）",
+            "answer": "正确"
+        },
+        {
+            "title": "重复上一次操作的快捷键是",
+            "date": "Ctrl+C Ctrl+V Ctrl+Y Ctrl+X",
+            "answer": "Ctrl+Y"
+        },
+        {
+            "title": "返回年金每期利率的函数是",
+            "date": "RATE() MATCH() MIN() PV()",
+            "answer": "RATE()"
+        },
+        {
+            "title": "打开自定义功能区的方法是",
+            "date": "【文件】-【选项】-【自定义功能区】 【文件】-【信息】-【自定义功能区】 【开始】-【信息】-【自定义功能区】 【开始】-【选项】-【自定义功能区】",
+            "answer": "【文件】-【选项】-【自定义功能区】"
+        },
+        {
+            "title": "删除插入点到行末文本的快捷键是",
+            "date": "Shift+Del Ctrl+Tab Shift+Tab Ctrl+Del",
+            "answer": "Ctrl+Del"
+        },
+        {
+            "title": "隐藏选定行的快捷键是",
+            "date": "Shift+9 Shift+8 Ctrl+9 Ctrl+8",
+            "answer": "Ctrl+9"
+        },
+        {
+            "title": "在Excel的工作表中，每个单元格都有其固定的地址，如“A5”表示",
+            "date": "“A”代表“A”行，“5”代表第“5”列 “A5”代表单元格的数据 “A”代表“A”列，“5”代表第“5”行 以上都不是",
+            "answer": "“A”代表“A”列，“5”代表第“5”行"
+        },
+        {
+            "title": "Excel工作表单元格中，系统默认的数据对齐是",
+            "date": "数值数据、正文数据均为右对齐 数值数据、正文数据均为左对齐 数值数据左对齐，正文数据右对齐 数值数据右对齐,文本数据左对齐",
+            "answer": "数值数据右对齐,文本数据左对齐"
+        },
+        {
+            "title": "测试某个数字是否大于阈值的函数是",
+            "date": "GESTEP() GAUSS() GCD() MATCH()",
+            "answer": "GESTEP()"
+        },
+        {
+            "title": "下列哪一个选项卡不位于数据验证对话框",
+            "date": "输入信息 出错处理 设置 出错警告",
+            "answer": "出错处理"
+        },
+        {
+            "title": "用颜色的变化展示数据分布时，默认情况下，最大值显示（）",
+            "date": "蓝色 红色 绿色 黄色",
+            "answer": "红色"
+        },
+        {
+            "title": "将参数向上舍入为最接近的指定基数的倍数的函数是",
+            "date": "INDEX() CEILING() MATCH() RAND()",
+            "answer": "CEILING()"
+        },
+        {
+            "title": "弹出单元格格式对话框的快捷键是",
+            "date": "Ctrl+1 Shift+1 Shift+2 Ctrl+2",
+            "answer": "Ctrl+1"
+        },
+        {
+            "title": "下列（）不是Excel的功能",
+            "date": "分类汇总 邮件合并 排序 筛选",
+            "answer": "邮件合并"
+        },
+        {
+            "title": "基于固定利率及等额分期付款方式，返回某项投资总期数的函数是",
+            "date": "PMT() NPER() MIN() PV()",
+            "answer": "NPER()"
+        },
+        {
+            "title": "查找下一个的快捷键是",
+            "date": "Alt+F2 Shift+F2 Shift+F4 Alt+F4",
+            "answer": "Shift+F4"
+        },
+        {
+            "title": "在Excel中的定位窗口中输入A1：D4表示",
+            "date": "定位一个单元格区域 没有意义 定位一个单元格 定位一个工作表",
+            "answer": "定位一个单元格区域"
+        },
+        {
+            "title": "在Excel中要调整列宽时，需将鼠标指针移至列标标头的边框",
+            "date": "顶端 右边 左边 下端",
+            "answer": "右边"
+        },
+        {
+            "title": "输入时间的快捷键是",
+            "date": "Ctrl+Alt+: Ctrl+Shift+; Ctrl+Shift+: Ctrl+Alt+;",
+            "answer": "Ctrl+Shift+:"
+        },
+        {
+            "title": "工作表被删除后,下列说法正确的是",
+            "date": "数据被全部删除,而且不可用”撤消”来恢复 数据进入了回收站,可以去回收站将数据恢复 数据还保存在内存里,只不过是不再显示 数据被删除,可以用”撤消”来恢复",
+            "answer": "数据被全部删除,而且不可用”撤消”来恢复"
+        },
+        {
+            "title": "单因素方差分析对话框的输出选项不包括",
+            "date": "新工作表组 新工作簿 输出区域 新单元格",
+            "answer": "新单元格"
+        },
+        {
+            "title": "在Excel中，以下对格式刷的描述正确的是",
+            "date": "既不能复制格式，也不能复制内容 可以复制格式，不能复制内容 可以复制内容，不能复制格式 既可以复制格式，也可以复制内容",
+            "answer": "可以复制格式，不能复制内容"
+        },
+        {
+            "title": "PMT(Rate, Nper, Pv, Fv, Type)的参数中哪一个是可选的",
+            "date": "Fv Pv Rate Nper",
+            "answer": "Fv"
+        },
+        {
+            "title": "在某单元格内输入数字123，不正确的输入形式是",
+            "date": "+123 *123  ",
+            "answer": "*123"
+        },
+        {
+            "title": "应用或取消加粗格式的快捷键是",
+            "date": "Ctrl+I Ctrl+B Ctrl+C Ctrl+A",
+            "answer": "Ctrl+B"
+        },
+        {
+            "title": "在Excel中,如果单元格A5的值是单元格A1、A2、A3、A4的平均值,则不正确的输入公式为",
+            "date": "=AVERAGE(A1+A2+A3+A4) =(A1+A2+A3+A4)/4 =AVERAGE(A1:A4) =AVERAGE(A1,A2,A3,A4)",
+            "answer": "=AVERAGE(A1+A2+A3+A4)"
+        },
+        {
+            "title": "判断是否满足某个条件的函数是",
+            "date": "IFNA() IFERROR() IF() GCD()",
+            "answer": "IF()"
+        },
+        {
+            "title": "基于各自值设置所有单元格的格式，格式样式不包括",
+            "date": "双色刻度 样式图 数据条 三色刻度",
+            "answer": "样式图"
+        },
+        {
+            "title": "关于excel函数下面说法错误的是",
+            "date": "按一定语法的特定顺序排序进行计算 函数就是预定义的内置公式 在某些函数中可以包含子函数 sum()是求最大值函数",
+            "answer": "sum()是求最大值函数"
+        },
+        {
+            "title": "取消单元格输入的快捷键是",
+            "date": "Shift Esc Del Ctrl",
+            "answer": "Esc"
+        },
+        {
+            "title": "使用圈释标注的方法是",
+            "date": "【数据】-【数据验证】-【圈释无效数据】 【数据】-【数据验证】-【清除验证标识圈】 【开始】-【数据验证】-【圈释无效数据】 【开始】-【数据验证】-【清除验证标识圈】",
+            "answer": "【数据】-【数据验证】-【圈释无效数据】"
+        },
+        {
+            "title": "插入新工作表的快捷键是",
+            "date": "Shift+F10 Shift+F11 Ctrl+F10 Ctrl+F11",
+            "answer": "Shift+F11"
+        },
+        {
+            "title": "趋势线的类型不包括",
+            "date": "平方根 线性 指数 对数",
+            "answer": "平方根"
+        },
+        {
+            "title": "Excel中选取整行的快捷键是",
+            "date": "Ctrl+M Ctrl+空格键 Shift+M Shift+空格键",
+            "answer": "Shift+空格键"
+        },
+        {
+            "title": "通过公式计算返回的结果在内存中临时构成，并且可以作为一个整体直接嵌套到其他公式中继续参与计算的数组是（）",
+            "date": "文本数组 常量数组 区域数组 内存数组",
+            "answer": "内存数组"
+        },
+        {
+            "title": "在表格的首行或数值数组中搜索值，然后返回表格或数组中指定行的所在列中值的函数是",
+            "date": "MATCH() HLOOKUP() PV() VLOOKUP()",
+            "answer": "HLOOKUP()"
+        },
+        {
+            "title": "格式刷位于（）菜单中",
+            "date": "文件 插入 公式 开始",
+            "answer": "文件"
+        },
+        {
+            "title": "填充柄在所选单元格的",
+            "date": "右下角 右上角 左下角 左上角",
+            "answer": "右下角"
+        },
+        {
+            "title": "打开工作簿的快捷键是",
+            "date": "Alt+O Ctrl+O  ",
+            "answer": "Ctrl+O"
+        },
+        {
+            "title": "使用Excel的数据筛选功能，是将",
+            "date": "满足条件的记录显示出来，而删除掉不满足条件的数据 不满足条件的记录暂时隐藏起来，只显示满足条件的数据 将满足条件的数据突出显示 不满足条件的数据用另外一个工作表来保存起来",
+            "answer": "不满足条件的记录暂时隐藏起来，只显示满足条件的数据"
+        },
+        {
+            "title": "PRODUCT()函数最多可以使用（）个参数",
+            "date": "128 200 100 255",
+            "answer": "255"
+        },
+        {
+            "title": "图标集的分段类型不包括",
+            "date": "百分比 数字 字符 公式",
+            "answer": "字符"
+        },
+        {
+            "title": "向Excel工作表的单元格里输入公式，运算符有优先顺序，下列（）说法是错误的",
+            "date": "加和减优先于乘和除 乘方优先于加和减 乘和除优先于加和减 字符串连接优先于关系运算",
+            "answer": "加和减优先于乘和除"
+        },
+        {
+            "title": "=INT(8.9)的结果是",
+            "date": "8 9 7 6",
+            "answer": "8"
+        },
+        {
+            "title": "计算所有参数乘积的函数是",
+            "date": "PROB()MATCH()VLOOKUP()PRODUCT() VLOOKUP() PRODUCT() MATCH()",
+            "answer": "PRODUCT()"
+        },
+        {
+            "title": "计算泊松分布的函数是",
+            "date": "POISSON() SKEW() KURT() MATCH()",
+            "answer": "POISSON()"
+        },
+        {
+            "title": "函数SUM(10，MIN(5，MAX(2，0)，4))的值为",
+            "date": "14 15 12 10",
+            "answer": "12"
+        },
+        {
+            "title": "=MIN(0,3,,9,5)的结果是",
+            "date": "5 0 9 3",
+            "answer": "0"
+        },
+        {
+            "title": "新建批注按钮位于（）菜单",
+            "date": "插入 开始 数据 审阅",
+            "answer": "审阅"
+        },
+        {
+            "title": "“使用公式确定要设置格式的单元格”的方法是",
+            "date": "【开始】-【套用表格格式】-【新建规则】-【使用公式确定要设置格式的单元格】 【开始】-【条件格式】-【新建规则】-【使用公式确定要设置格式的单元格】 【插入】-【条件格式】-【新建规则】-【使用公式确定要设置格式的单元格】 【插入】-【套用表格格式】-【新建规则】-【使用公式确定要设置格式的单元格】",
+            "answer": "【开始】-【条件格式】-【新建规则】-【使用公式确定要设置格式的单元格】"
+        },
+        {
+            "title": "当单元格引用无效时将产生错误值（）",
+            "date": "#NULL! #VALUE! #NUM! #REF!",
+            "answer": "#REF!"
+        },
+        {
+            "title": "拆分按钮位于（）菜单",
+            "date": "视图 开始 插入 数据",
+            "answer": "视图"
+        },
+        {
+            "title": "对满足条件的单元格求和的函数是",
+            "date": "MATCH() SUMIF() SUM() COUNT()",
+            "answer": "SUMIF()"
+        },
+        {
+            "title": "Excel中关于筛选后隐藏起来的记录的叙述，下面错误的是",
+            "date": "永远丢失 不打印 不显示 可以恢复",
+            "answer": "永远丢失"
+        },
+        {
+            "title": "在Excel中，要清除单元格内容，可以使用（ ）键来清除",
+            "date": "Del Ctrl Backspace Shift",
+            "answer": "Del"
+        },
+        {
+            "title": "确认公式输入的组合键是",
+            "date": "Shift+Enter Ctrl+Alt Shift+Alt Ctrl+Enter",
+            "answer": "Ctrl+Enter"
+        },
+        {
+            "title": "按住（）键就可以在不同工作簿窗口之间切换",
+            "date": "Ctrl+F6 Ctrl+W Alt+W Alt+F6",
+            "answer": "Ctrl+F6"
+        },
+        {
+            "title": "=ABS(-2)的计算结果是",
+            "date": "#DIV/0 2 0 -2",
+            "answer": "2"
+        },
+        {
+            "title": "计算数值平方根的函数是",
+            "date": "MAX() INT() MATCH() SQRT()",
+            "answer": "SQRT()"
+        },
+        {
+            "title": "冻结拆分窗格的方法是",
+            "date": "选中单元格-【视图】-【冻结窗格】-【冻结拆分窗格】 选中单元格-【视图】-【新建窗口】-【冻结拆分窗格】 选中单元格-【审阅】-【冻结窗格】-【冻结拆分窗格】 选中单元格-【审阅】-【新建窗口】-【冻结拆分窗格】",
+            "answer": "选中单元格-【视图】-【冻结窗格】-【冻结拆分窗格】"
+        },
+        {
+            "title": "在Excel中，当单元格出现多个字符“#”时，说明该单元格",
+            "date": "数值格式设置错误 数值数据长度超过单元格宽度 数据输入错误 文字数据长度超过单元格宽度",
+            "answer": "数值数据长度超过单元格宽度"
+        },
+        {
+            "title": "在Excel输入数据的以下4项操作中,不能结束单元格数据输入的操作是",
+            "date": "按[Enter]键 按[Shift]键 单击其他单元格 按[Tab]键",
+            "answer": "按[Shift]键"
+        },
+        {
+            "title": "填充的序列类型不包括",
+            "date": "货币 等比序列 日期 等差序列",
+            "answer": "货币"
+        },
+        {
+            "title": "要显示表格中符合某个条件要求的记录，采用（）命令",
+            "date": "排序 有效性 筛选 条件格式",
+            "answer": "筛选"
+        },
+        {
+            "title": "数据验证中，输入法模式设置为（）时，输入法将自动切换为中文模式",
+            "date": "随意 关闭 混合 打开",
+            "answer": "打开"
+        },
+        {
+            "title": "在Excel操作中,若要在工作表中选择不连续的区域时,应当按住（）键再单击需要选择的单元格",
+            "date": "Tab Ctrl Shift Alt",
+            "answer": "Ctrl"
+        },
+        {
+            "title": "在Excel中，= SUM（1,2,TRUE）的返回值是",
+            "date": "4 1 2 3",
+            "answer": "4"
+        },
+        {
+            "title": "通过线性回归法计算纵坐标预测值所产生的标准误差的函数是",
+            "date": "FORECAST() STEYX() INTERCEPT() MIN()",
+            "answer": "STEYX()"
+        },
+        {
+            "title": "下列哪一项不是常量数据",
+            "date": "公式产生的结果 文本 逻辑值 日期",
+            "answer": "公式产生的结果"
+        },
+        {
+            "title": "返回符合特定值特定顺序的项在数组中相对位置的函数是",
+            "date": "MATCH() OFFSET() RTD() ROWS()",
+            "answer": "MATCH()"
+        },
+        {
+            "title": "数据分析的方差分析不包括",
+            "date": "可重复双因素分析 无重复双因素分析 单因素重复方差分析 单因素方差分析",
+            "answer": "单因素重复方差分析"
+        },
+        {
+            "title": "删除当前工作表的快捷键是",
+            "date": "Shift+E+L Alt+E+L Alt+E+M Shift+E+M",
+            "answer": "Alt+E+L"
+        },
+        {
+            "title": "在A1单元格中输入=SUM(8,7,8,7),则其值为",
+            "date": "15 7 8 30",
+            "answer": "30"
+        },
+        {
+            "title": "返回标准正态累积分布函数的反函数值函数是",
+            "date": "MATCH() ABS() NORMSINV() LOOKUP()",
+            "answer": "ABS()"
+        },
+        {
+            "title": "当C7单元格中有相对引用=SUM(C3：C6)，把它复制到E7单元格后，双击它将显示出",
+            "date": "=SUM(C3：C6) =SUM(E3：E6) =SUM(C4：C7) =SUM(E4：E7)",
+            "answer": "=SUM(E3：E6)"
+        },
+        {
+            "title": "在单元格输入数据时，取消输入按（）键",
+            "date": "左光标 右光标 回车 Escape",
+            "answer": "Escape"
+        },
+        {
+            "title": "计算一元二项式分布概率的函数是",
+            "date": "BINOM.DIST() POISSON() SKEW() MATCH()",
+            "answer": "BINOM.DIST()"
+        },
+        {
+            "title": "合并计算按钮位于（）菜单",
+            "date": "插入 公式 数据 开始",
+            "answer": "数据"
+        },
+        {
+            "title": "=3^2的结果是",
+            "date": "2 3 9 6",
+            "answer": "9"
+        },
+        {
+            "title": "替换的快捷键是",
+            "date": "Ctrl+F Ctrl+H Ctrl+V Ctrl+A",
+            "answer": "Ctrl+H"
+        },
+        {
+            "title": "估算样本的标准偏差函数是",
+            "date": "SUM() MIN() COUNT() STDEV()",
+            "answer": "STDEV()"
+        },
+        {
+            "title": "打开Excel选项对话框的方法是",
+            "date": "【开始】-【共享】 【文件】-【选项】 【开始】-【选项】 【文件】-【共享】",
+            "answer": "【文件】-【选项】"
+        },
+        {
+            "title": "对数据列表或数据库分类汇总的公式是",
+            "date": "MATCH() COUNT() SUM() SUBTOTAL()",
+            "answer": "SUBTOTAL()"
+        },
+        {
+            "title": "返回大于等于0且小于1的均匀分布随机实数的函数是",
+            "date": "ABS() MAX() MATCH() RAND()",
+            "answer": "RAND()"
+        },
+        {
+            "title": "打开单变量求解对话框的方法",
+            "date": "【开始】-【数据验证】-【单变量求解】 【数据】-【数据验证】-【单变量求解】 【数据】-【模拟分析】-【单变量求解】 【开始】-【模拟分析】-【单变量求解】",
+            "answer": "【数据】-【模拟分析】-【单变量求解】"
+        },
+        {
+            "title": "为了设置单元格只能输入身份证，在数据验证对话框中，将验证条件的允许设置为（）",
+            "date": "自定义 日期 小数 任何值",
+            "answer": "自定义"
+        },
+        {
+            "title": "Excel工作表与工作区域名字之间要以（）符号连接",
+            "date": ". $ : !",
+            "answer": "!"
+        },
+        {
+            "title": "单元格添加批注后，右上角会出现（）",
+            "date": "绿色正方形 绿色小三角 红色正方形 红色小三角",
+            "answer": "红色小三角"
+        },
+        {
+            "title": "打开查找和替换对话框的方法是",
+            "date": "【视图】-【排序和筛选】-【查找】 【视图】-【查找和选择】-【查找】 【开始】-【查找和选择】-【查找】 【开始】-【排序和筛选】-【查找】",
+            "answer": "【开始】-【查找和选择】-【查找】"
+        },
+        {
+            "title": "移到行首的快捷键是",
+            "date": "Esc EndEscHomeDel Del Home",
+            "answer": "Home"
+        },
+        {
+            "title": "如果单元格所含的数字、日期或时间比单元格宽，或者单元格的日期时间公式产生了一个负值，就会产生（）错误",
+            "date": "#####！ #DIV/O!  ",
+            "answer": "#####！"
+        },
+        {
+            "title": "Excel文件的后缀名是",
+            "date": ".ppt .doc .xls .key",
+            "answer": ".xls"
+        },
+        {
+            "title": "新建工作簿的快捷键是",
+            "date": "Ctrl+N Shift+N Ctrl+Alt+N Alt+N",
+            "answer": "Ctrl+N"
+        },
+        {
+            "title": "在一个单元格中输入数据为1.678E+05，它与（）相等",
+            "date": "167800 6.678 1.67805 1.6785",
+            "answer": "167800"
+        },
+        {
+            "title": "数据透视表的数据区域默认的字段汇总方式是",
+            "date": "最大值 求和 乘积 平均值",
+            "answer": "求和"
+        },
+        {
+            "title": "（）表示几个条件中只要有一个条件满足，在筛选结果中就能够显示该记录",
+            "date": "异或条件筛选 同或条件筛选 或条件筛选 与条件筛选",
+            "answer": "或条件筛选"
+        },
+        {
+            "title": "准备在一个单元格内输入一个公式,应先键入（）先导符号",
+            "date": "= $ < >",
+            "answer": "="
+        },
+        {
+            "title": "比较运算符中，下列哪一项是不等于运算符",
+            "date": "<> <= < >",
+            "answer": "<>"
+        },
+        {
+            "title": "在Excel中，=MIN(2,5,TRUE)的执行结果是",
+            "date": "5 2 1 0",
+            "answer": "1"
+        },
+        {
+            "title": "计算数组K百分点值的函数是",
+            "date": "VAR.P() MATCH() MEDIAN() PERCENTILE(array,k)",
+            "answer": "PERCENTILE(array,k)"
+        },
+        {
+            "title": "取消选定单元格外边框的快捷键是",
+            "date": "Ctrl+Alt+$ Ctrl+Shift+$ Ctrl+Alt+& Ctrl+Shift+_",
+            "answer": "Ctrl+Shift+_"
+        },
+        {
+            "title": "打开模拟运算表对话框的方法是",
+            "date": "回车 右光标 Escape 左光标",
+            "answer": "【数据】-【模拟分析】-【模拟运算表】"
+        },
+        {
+            "title": "计算累积二项式分布大于等于临界值的最小值函数是",
+            "date": "POISSON() CRITBINOM() SKEW() BINOM.DIST()",
+            "answer": "CRITBINOM()"
+        },
+        {
+            "title": "字体的默认格式为",
+            "date": "宋体 幼圆 黑体 隶书",
+            "answer": "宋体"
+        },
+        {
+            "title": "对于VLOOKUP()的使用，下列哪一项是正确的",
+            "date": "=VLOOKUP(D3,G4:H8,2,0) =VLOOKUP(D3,G4:H8,TRUE) =VLOOKUP(D3,G4:H8,2,TRUE) =VLOOKUP(D3,G4:H8,2,1)",
+            "answer": "=VLOOKUP(D3,G4:H8,2,TRUE)"
+        },
+        {
+            "title": "MATCH(lookup_value, lookup_array, match_type)，参数match_type的取值不包括",
+            "date": "0 2 -1 1",
+            "answer": "2"
+        },
+        {
+            "title": "定位的快捷键是",
+            "date": "F6 F5 F3 F4",
+            "answer": "F5"
+        },
+        {
+            "title": "Excel中=SUMIF(A1：A10，“>60”)的返回值是",
+            "date": "10 不能执行 将A1：A10这10个单元中大于60的数据求和 统计大于60的数据个数",
+            "answer": "将A1：A10这10个单元中大于60的数据求和"
+        },
+        {
+            "title": "将公式作为数组公式输入的快捷键是",
+            "date": "Ctrl+Shift+Enter Shift+Tab+Enter Ctrl+Alt+Enter Ctrl+Tab+Enter",
+            "answer": "Ctrl+Shift+Enter"
+        },
+        {
+            "title": "求众数的函数是",
+            "date": "MEDIAN() AVERAGE() MATCH() MODE.MULT()",
+            "answer": "MODE.MULT()"
+        },
+        {
+            "title": "Excel2016默认自动创建（）个工作表",
+            "date": "4 3 2 1",
+            "answer": "1"
+        },
+        {
+            "title": "单元格中数字保留1位小数，输入数字5.467后将显示",
+            "date": "5.47 5.4 5.5 5",
+            "answer": "5.5"
+        },
+        {
+            "title": "绝对地址在被复制或移动到其他单元格时,其单元格地址",
+            "date": "不会改变 部分改变 不能复制 发生改变",
+            "answer": "不会改变"
+        },
+        {
+            "title": "下列哪一项不是单元格删除对话框中的选项",
+            "date": "下方单元格上移 整行 左侧单元格右移 右侧单元格左移下方单元格上移整行左侧单元格右移",
+            "answer": "左侧单元格右移"
+        },
+        {
+            "title": "用户可以设置输入无效数据时显示的出错警告",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "图表不可以没有标题",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "定时刷新数据的频率是固定的用户不能进行修改",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "函数可作为另一个函数的参数",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "单元格中只能显示公式计算结果，而不能显示输入的公式",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "为单元格区域建立名称时，名称只能以字母开头",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel中，通配符可以在筛选中使用",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "排序时，只能指定一种关键字",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel一次只能调整一行的行高",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "在自定义自动筛选对话框中不能使用通配符",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "可以引用不同工作表中的数据",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel排序时可以区分大小写",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "用数据条长度展现数值大小，可以只显示数据条图形，不再显示具体数值",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "合并计算只能进行求和运算",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "只能对同列的数据进行求和操作",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel中删除图表对数据表没有影响",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "可以设置数据透视图的背景色",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel求中位数时，需要对数据进行排序",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "工作表可以重新命名 ",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "“*”在Excel中可以表示乘以",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "高级筛选可以进行更复杂条件的筛选",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel只有表格处理功能",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "在数据透视表中可以添加新的字段名",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "散点图中只能添加水平网格线",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "单元格是EXCEL的存储单位，可以存放数值、变量等",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "工作表能移动到其他工作簿中",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "输入公式必须以“=”开头，输入函数时直接输入函数名，而不需要以“=”开头",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel中的逻辑值只有TRUE和FALSE两个",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel函数的参数可以有多个，相邻参数之间可用（）分隔",
+            "date": "逗号 / 空格 分号",
+            "answer": "逗号"
+        },
+        {
+            "title": "Excel进行排序时，错误值也参与排序",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "用户可以在公示栏中输入公式",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "双击工作表标签可以对其重命名",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "导入数据对话框可以设置数据存放区域",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "下列哪一项不属于Excel数据分析中的随机数发生器的分布方式",
+            "date": "均匀 线性 正态 离散",
+            "answer": "线性"
+        },
+        {
+            "title": "利用记录单可以使数据的操作过程逐条显示",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "分类汇总时可以将汇总结果显示在数据下方",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Sheet1表示工作表名称",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "逻辑值不能作为SUM()函数的参数",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "工作表间的数据可以相互引用",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel数据分析的抽样工具可以设置抽样周期",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "=STDEV(L3:L12)会得到10个抽样数据的平均值",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "单击行号即可选定整行单元格",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel对数据只能按照降序排序",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "在分类汇总时，下列不属于汇总方式的运算是",
+            "date": "平均值 计数 最小值 等比",
+            "answer": "等比"
+        },
+        {
+            "title": "Excel单元格中的公式不能进行复制",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel只能一个一个查找内容",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Delete 仅能删除单元格的内容",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "在文本分列向导中可以预览数据",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "双因素方差分析，包括无重复双因素方差分析和可重复双因素方差分析",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "筛选的快捷键是",
+            "date": "Ctrl+Alt+M Ctrl+Shift+M EnL Ctrl+Alt+L",
+            "answer": "EnL"
+        },
+        {
+            "title": "函数VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)中，参数lookup_value的值只能是数值",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel趋势线的线条只能选择实线",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "自动筛选是以用户设定的条件对Excel工作表中的数据进行筛选",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "条件格式按钮位于（）菜单中",
+            "date": "开始 插入 数据 文件",
+            "answer": "开始"
+        },
+        {
+            "title": "记录单具有浏览、添加、修改和删除记录等作用",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "筛选可以分为自动筛选和高级筛选",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "POISSON(X,Mean,Cumulative),参数X如果不是整数，小数部分会被截断",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "用户设置货币输入方式时，可以修改小数位数",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "对汉字的排序只能使用 “笔画顺序”",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "描述统计工具只能逐列分组",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "RAND()函数不需要参数",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "PV(rate,nper,pmt,fv,type)中，参数pmt是可选项",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "使用描述统计工具时可以指定输出区域",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "数据透视图是以图形的方式汇总数据",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "在单元格中换行的快捷键是",
+            "date": "Alt+Enter Shift+Enter Tab+Enter Ctrl+Enter",
+            "answer": "Alt+Enter"
+        },
+        {
+            "title": "在单元格输入公式后按Enter键便会计算出相应的结果",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "自Access按钮位于（）菜单",
+            "date": "数据 开始 文件 公式",
+            "answer": "数据"
+        },
+        {
+            "title": "打开排序对话框的方法是",
+            "date": "开始>排序和筛选>自定义排序 开始>排序和筛选>降序 开始>排序和筛选>升序 数据>排序和筛选>自定义排序",
+            "answer": "开始>排序和筛选>自定义排序"
+        },
+        {
+            "title": "筛选功能并不会改变原始工作表的数据结构和内容",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "数据透视表是一种交互式报表",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel可以进行分级显示",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "用颜色的变化展示数据分布时，可以调整数值和颜色的对应关系",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "一个工作表中可以有多个活动单元格",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "使用数据条长度展现数值大小时，值越大数据条越长",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "逻辑值TRUE大于FALSE",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel查找时只能按行搜索",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "折线图中不能修改折线的颜色",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "行增高时，该行各单元格中的字符也随之自动增高",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel可以设置定时刷新数据",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "excel中复制的快捷键是",
+            "date": "Ctrl+C Ctrl+V Ctrl+X Ctrl+M",
+            "answer": "Ctrl+C"
+        },
+        {
+            "title": "柱形图中图表元素可以进行删除",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "如果某个单元格中的公式为\"=$D2\",这里的$D2属于（）引用",
+            "date": "列绝对行相对的混合 绝对 列相对行绝对的混合 相对",
+            "answer": "列绝对行相对的混合"
+        },
+        {
+            "title": "FREQUENCY()会忽略空白单元格",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "数据分析工具库是以插件的形式加载在Excel中",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel中的数字只有数值型数字",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "数据透视图中饼状图可以任意拆分",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "SLN(cost,salvage,life)函数中，参数cost是资产原值",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "创建当前区域中数据的图表的快捷键是",
+            "date": "F11 F8 F10 F9",
+            "answer": "F11"
+        },
+        {
+            "title": "在Excel中不能整行或整列的插入单元格",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "冻结窗格后无法进行取消",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "在使用函数进行运算时，如果不需要参数，则函数后面的括号可以省略",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "单因素方差分析的分组方式只能按行分组",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "使用了不正确的区域运算符，会产生错误值#NULL！",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel可以选定多个不连续的单元格区域",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "&运算符的优先级高于()运算符",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "当单元格的字符串超过该单元格的显示宽度时多余部分被删除",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel中进行筛选的方法是",
+            "date": "选取单元格>开始>查找和选择>筛选 选取单元格>插入>排序和筛选>筛选 选取单元格>插入>查找和选择>筛选 选取单元格>开始>排序和筛选>筛选",
+            "answer": "选取单元格>开始>排序和筛选>筛选"
+        },
+        {
+            "title": "复制操作只能在同一个工作表中进行",
+            "date": "正确 错误 MEDIAN() MAX()",
+            "answer": "错误"
+        },
+        {
+            "title": "散点图中可以设置坐标轴标题",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "同一工作簿中的各工作表可以重名",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "Excel只能用固定宽度分列数据",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "图标集的默认分段类型是数字",
+            "date": "正确 错误  ",
+            "answer": "错误"
+        },
+        {
+            "title": "函数SUM(number1,number2, ...)的参数可以是数字",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "CORREL(array1,array2)的两个参数不能为空",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "用户可以自定义趋势线名称",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel可以在单元格中直接输入函数",
+            "date": "正确 错误  ",
+            "answer": "正确"
+        },
+        {
+            "title": "工作表的移动或复制只能在本工作簿进行",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        },
+        {
+            "title": "使用LOOKUP()函数时，必须按升序排列查询的数据",
+            "date": "错误 正确  ",
+            "answer": "正确"
+        },
+        {
+            "title": "Excel中只能对数据进行升序排序",
+            "date": "错误 正确  ",
+            "answer": "错误"
+        }
+    ]
+}

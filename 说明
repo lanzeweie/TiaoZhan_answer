@@ -1,0 +1,28 @@
+Word挑战链接
+https://19276789-157.hdpyqd.com/19276789/Gsye5pFz5J30acjVeGRZLw/nldtz.html?appid=wx50775cad5d08d7ad&editQrcode=true&_source=1&fromQrcode=true&canal=-1&canal=-1
+PPT挑战链接
+https://19276789-158.hdpyqd.com/19276789/Gsye5pFz5J359EFfURSjMg/nldtz.html?appid=wx50775cad5d08d7ad&editQrcode=true&_source=1&fromQrcode=true&canal=-1
+office挑战链接
+https://19276789-159.hdpyqd.com/19276789/Gsye5pFz5J1vl71h5bdwgA/nldtz.html?appid=wx50775cad5d08d7ad&editQrcode=true&_source=1&fromQrcode=true&canal=-1
+SPSS挑战链接
+https://19276789-160.hdpyqd.com/19276789/Gsye5pFz5J2Nt_RNRq_9Og/nldtz.html?appid=wx50775cad5d08d7ad&editQrcode=true&_source=1&fromQrcode=true&canal=-1  
+
+
+Word题目API
+https://19276789-157.hdpyqd.com/api/game4Qt/qtGame_Req?aid=19276789&canal=-1&playerOrigin=4&uid=&extra=&aid=19276789&gameId=157&_openId=oosnVwoBokZk3QoPMuJEMc465j3I
+PPT题目API
+https://19276789-158.hdpyqd.com/api/game4Qt/qtGame_Req?aid=19276789&canal=-1&playerOrigin=4&uid=&extra=&aid=19276789&gameId=158&_openId=oosnVwoBokZk3QoPMuJEMc465j3I
+office题目API
+https://19276789-159.hdpyqd.com/api/game4Qt/qtGame_Req?aid=19276789&canal=-1&playerOrigin=4&uid=&extra=&aid=19276789&gameId=159&_openId=oosnVwoBokZk3QoPMuJEMc465j3I
+SPSS题目 API
+https://19276789-160.hdpyqd.com/api/game4Qt/qtGame_Req?aid=19276789&canal=-1&playerOrigin=4&uid=&extra=&aid=19276789&gameId=160&_openId=oosnVwoBokZk3QoPMuJEMc465j3I
+
+
+答案解析  exposure_QtList 后面的参数为答案序号，但是无法破解
+{"gameId":157,"req_Type":"check","isManage":false,"playerAnswer":"Ctrl","qtInfoParam":{"exposure_QtList":[411,122,362,4,109,194,43,174,277,98,476],"qtNum":15,"qtScore":10,"moreAnswer":false}
+{"gameId":157,"req_Type":"check","isManage":false,"playerAnswer":"视图","qtInfoParam":{"exposure_QtList":[411,122,362,4,109,194,43],"qtNum":15,"qtScore":10,"moreAnswer":false}
+
+
+页面元素分析
+questionAnswer questionAnswer_wrong 为错误题目元素
+questionAnswer questionAnswer_right 为正确题目元素

@@ -1,0 +1,12 @@
+{
+    "name": "桥帮主读书日ppt题库",
+    "date": "2022/5/6",
+    "jieshao":"title 为题目 date 为题目选项 空格为分格 answer为答案",
+    "Tiku": [
+        {
+            "title": "ppt中，粘贴文本格式的快捷键是",
+            "date": "Ctrl+V Ctrl+Shift+V Ctrl+Shift+C Ctrl+C",
+            "answer": "Ctrl+Shift+V"
+        }
+    ]
+}

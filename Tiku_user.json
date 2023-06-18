@@ -1,0 +1,75 @@
+{
+    "name":"桥帮主 '挑战杯' 用户配置信息",
+    "user":"大哥哥",
+    "Tiku_name":"桥帮主读书日Excel题库",
+    "shuoming_Tiku_name":"Tiku_name 填写目标题库名",
+    "Tiku_url":"https://19276789-205.hd.ysfaisco.cn/19276789/Gsye5pFz5J0BcqwKceDpiA/nldtz.html?belong=0&canvans=true&appid=wx50775cad5d08d7ad&repeateCome=true&editQrcode=true&_source=1&fromQrcode=true&canal=-1",
+    "shuoming_Tiku_url":"Tiku_url 填写目标网址",
+    "Tiku_url_shu":"205",
+    "shuoming_Tiku_url_shu":"Tiku_url_shu 填写 列如 https://19276789-159.hdpyqd.com 的 159",
+    "Tiku_start_time":"17.30",
+    "shuoming_Tiku_start_time":"填写你成绩所需的时间",
+    "jieshao":"Tiku_url_shu|Tiku_url|Tiku_name 为必填项目  user只是本地区分用户,不会有使用 cookie 每个参数必须分开填写 按着下面的格式填",
+    "file":"\\json\\Tiku_Excel.json",
+    "cookieshuoming":"我使用 fidder 给手机代理抓包在微信打开的活动获得的cookie",
+    "cook1": [
+        {
+            "name": "_cl",
+            "value": "H8"
+        }
+    ],
+    "cook2": [
+        {
+            "name": "scope",
+            "value": "snsapi_base"
+        }
+    ],
+    "cook3": [
+        {
+            "name": "faiOpenId",
+            "value": "oosn3I"
+        }
+    ],
+    "cook4": [
+        {
+            "name": "hdOpenIdSign_19276789",
+            "value": "bbb1c9cd9b"
+        }
+    ],
+    "cook5": [
+        {
+            "name": "t_wc",
+            "value": "owRlkwiRs"
+        }
+    ],
+    "cook6": [
+        {
+            "name": "oid_19276789_205",
+            "value": "oosnVwoj3I"
+        }
+    ],
+    "cook7": [
+        {
+            "name": "visitorA",
+            "value": "0.485"
+        }
+    ],
+    "cook8": [
+        {
+            "name": "oid4",
+            "value": "oJEMc465j3I"
+        }
+    ],
+    "cook9": [
+        {
+            "name": "_AID",
+            "value": "19276789"
+        }
+    ],
+    "cook10": [
+        {
+            "name": "oid_",
+            "value": "o"
+        }
+    ]
+}
